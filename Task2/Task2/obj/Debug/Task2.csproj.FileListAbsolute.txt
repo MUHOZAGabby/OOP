@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\panda\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\Student\Desktop\panda\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\Student\Desktop\panda\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\Student\Desktop\panda\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\panda\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\Student\Desktop\panda\Task2\Task2\obj\Debug\Task2.pdb
+C:\Users\LASTBornMESH\Downloads\panda\panda\Task2\Task2\bin\Debug\Task2.exe.config
+C:\Users\LASTBornMESH\Downloads\panda\panda\Task2\Task2\bin\Debug\Task2.exe
+C:\Users\LASTBornMESH\Downloads\panda\panda\Task2\Task2\bin\Debug\Task2.pdb
+C:\Users\LASTBornMESH\Downloads\panda\panda\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\LASTBornMESH\Downloads\panda\panda\Task2\Task2\obj\Debug\Task2.exe
+C:\Users\LASTBornMESH\Downloads\panda\panda\Task2\Task2\obj\Debug\Task2.pdb
